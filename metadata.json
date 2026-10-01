@@ -1,0 +1,6 @@
+{
+  "name": "대학생회비 관리 시스템",
+  "description": "대학교 학생회비 내역 입력, 납부 현황 조회, 통계 분석 및 엑셀(Excel) 저장/업로드 관리 시스템",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
